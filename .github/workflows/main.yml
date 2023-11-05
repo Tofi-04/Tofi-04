@@ -1,0 +1,15 @@
+$ pkg update && pkg upgrade -y
+
+$ apt-get install git
+
+$ git clone https://github.com/TunisianEagles/SocialBox.git
+
+$ cd SocialBox
+
+$ chmod +x SocialBox.sh
+
+$ chmod +x install-sb.sh
+
+$ bash install-sb.sh 
+
+$ bash SocialBox.sh
